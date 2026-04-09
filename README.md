@@ -43,7 +43,7 @@ You can play with the plugin over
 https://weltpixel.com/products/magento-2-theme-pearl
 
 ### Production-ready
-<p dir="auto">Storefront API originated from the <a href="https://github.com/DivanteLtd/vue-storefront-api"><code>vue-storefront-api</code></a> project and is currently <a href="https://www.vuestorefront.io/live-projects/" rel="nofollow">backing 30+ production sites</a>, including: <a href="https://zadig-et-voltaire.com/pt/en/" rel="nofollow">Zadig&amp;Voltaire</a>, <a href="https://www.klebefieber.de/" rel="nofollow">Klebefieber</a>, <a href="https://wonect.com/sg/" rel="nofollow">Wonect</a> and others.</p>
+<p dir="auto">magento2-weltpixel-social-login originated from the <a href="https://github.com/Weltpixel/magento2-weltpixel-social-login"><code>repo</code></a> project and is currently running in 1000s of websites including: <a href="https://pearl.weltpixel.com/" rel="nofollow">Weltpixel</a>, <a href="https://www.stickerprofis.de" rel="nofollow">Stickerprofis</a>, <a href="https://www.newbalance.co.id/" rel="nofollow">newbalance</a> and others.</p>
 
 ### The Story
 
